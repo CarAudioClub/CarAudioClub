@@ -63,9 +63,9 @@ C:\Users\Administrator>**conda activate base**
 Python 3.7.4 (default, Aug  9 2019, 18:34:13) [MSC v.1915 64 bit (AMD64)] :: Ana
 conda, Inc. on win32
 Type "help", "copyright", "credits" or "license" for more information.
->>> **import tensorflow as tf**
->>> **print(tf.__version__)**
->>> **2.0.0**
+ **import tensorflow as tf**
+ **print(tf.__version__)**
+ **2.0.0**
 
 ## 结尾
 到此为止，我们已成功调用tensorflow的API打印出了version2.0.0.代码虽然简单，但已足够验证TensorFlow2.0安装成功了。
